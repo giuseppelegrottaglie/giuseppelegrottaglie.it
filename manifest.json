@@ -2,8 +2,8 @@
     "theme_color": "#3454d1",
     "background_color": "#fff",
     "display": "standalone",
-    "scope": "https://depasqualecasa.it/",
-    "start_url": "https://depasqualecasa.it",
+    "scope": "https://depasqualecasa.webflow.io/",
+    "start_url": "https://depasqualecasa.webflow.io/",
     "name": "De Pasquale Casa | Agenzia Immobiliare",
     "short_name": "De Pasquale Casa",
     "icons": [
