@@ -1,0 +1,31 @@
+{
+    "theme_color": "#3454d1",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "https://depasqualecasa.it/",
+    "start_url": "https://depasqualecasa.it",
+    "name": "De Pasquale Casa | Agenzia Immobiliare",
+    "short_name": "De Pasquale Casa",
+    "icons": [
+        {
+            "src": "https://uploads-ssl.webflow.com/610e51f10d02dca3bbeabb8c/6113a1a2ba8f53fe568fb7e1_icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://uploads-ssl.webflow.com/610e51f10d02dca3bbeabb8c/6113a1a4873ed1af442b5efb_icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://uploads-ssl.webflow.com/610e51f10d02dca3bbeabb8c/6113a1a415d8100465d02601_icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://uploads-ssl.webflow.com/610e51f10d02dca3bbeabb8c/6113a1a473b78de13bd0442e_icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
