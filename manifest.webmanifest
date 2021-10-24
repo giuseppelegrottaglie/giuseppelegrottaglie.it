@@ -3,7 +3,7 @@
     "background_color": "#082032",
     "display": "minimal-ui",
     "scope": "/",
-    "start_url": "https://www.giuseppelegrottaglie.it/",
+    "start_url": "/",
     "name": "abouttech",
     "short_name": "abouttech",
     "icons": [
