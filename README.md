@@ -1,4 +1,4 @@
-# depasqualecasa
-Repository for depasqualecasa.it PWA
+# giuseppelegrottaglie.it
+Repository for giuseppelegrottaglie.it PWA
 
 Just a repository for a pwa
