@@ -2,10 +2,10 @@
     "theme_color": "#082032",
     "background_color": "#082032",
     "display": "minimal-ui",
-    "scope": "/",
-    "start_url": "/",
-    "name": "abouttech",
-    "short_name": "abouttech",
+    "scope": "https://www.giuseppelegrottaglie.it/",
+    "start_url": "https://www.giuseppelegrottaglie.it",
+    "name": "giuseppelegrottaglie.it",
+    "short_name": "giuseppelegrottaglie.it",
     "icons": [
         {
             "src": "/icon-192x192.png",
