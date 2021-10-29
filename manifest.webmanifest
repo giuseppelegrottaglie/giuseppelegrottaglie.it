@@ -1,11 +1,12 @@
 {
-    "theme_color": "#082032",
-    "background_color": "#082032",
-    "display": "standalone",
-    "scope": "https://www.giuseppelegrottaglie.it/",
-    "start_url": "https://www.giuseppelegrottaglie.it",
-    "name": "giuseppelegrottaglie.it",
-    "short_name": "giuseppelegrottaglie.it",
+   "name": "giuseppelegrottaglie.it",
+  "short_name": "GL.",
+  "theme_color": "#082032",
+  "background_color": "#082032",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "https://giuseppelegrottaglie.it/",
+  "start_url": "https://giuseppelegrottaglie.it".
     "icons": [
         {
             "src": "/icon-192x192.png",
