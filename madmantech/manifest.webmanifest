@@ -2,8 +2,8 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "https://www.madmantech.it/",
-    "start_url": "https://www.madmantech.it",
+    "scope": "https://madmantech.it/",
+    "start_url": "https://madmantech.it",
     "name": "madmantech.",
     "short_name": "madmantech.",
     "description": "Vuoi conoscere la tecnologia? Questo è il blog che fa per te.
