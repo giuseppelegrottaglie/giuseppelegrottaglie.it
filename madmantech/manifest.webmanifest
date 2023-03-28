@@ -1,9 +1,9 @@
 {
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#090f13",
+    "background_color": "#090f13",
     "display": "standalone",
-    "scope": "https://www.madmantech.it/",
-    "start_url": "https://www.madmantech.it",
+    "scope": "https://www.madmantech.io/",
+    "start_url": "https://www.madmantech.io",
     "name": "madmantech.",
     "short_name": "madmantech.",
     "description": "Madmantech è un blog di tecnologia che esplora recensioni, guide e le ultime notizie in questo mondo in continua evoluzione della tecnologia.",
